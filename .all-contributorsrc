@@ -1,0 +1,39 @@
+{
+  "projectName": "PushBots-Wordpress-Plugin",
+  "projectOwner": "PushBots",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 50,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "AbdallahNofal",
+      "name": "Abdallah Nofal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4125944?v=4",
+      "profile": "https://www.facebook.com/abdullah.nofall",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "amrsobhy",
+      "name": "amrsobhy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6784122?v=4",
+      "profile": "https://amrsobhy.com",
+      "contributions": [
+        "plugin"
+      ]
+    },
+    {
+      "login": "AbdullahDiaa",
+      "name": "Abdullah Diaa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/733794?v=4",
+      "profile": "https://abdullahdiaa.com",
+      "contributions": [
+        "plugin",
+        "code"
+      ]
+    }
+  ]
+}
